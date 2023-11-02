@@ -17,3 +17,12 @@ After receiving some feedback from the representitive, we decided to focus our e
 We also decided to put more focus on developing the keybind and gesture/eye tracking features.
 
 I felt that the discussion we had this week was extremely productive, with it providing us a more focused view on how to move forward with development
+
+
+Week 3
+
+This week, my group consulted the Coach at OCBC regarding the progress of our work the past 2 weeks. Based on the previous weeks' work, we suggested that we place greater focus on developiung the 
+voice command and keybind features due to the limitations in the capabilities of the previously proposed eye-tracker controlled cursor. Throughout the course of this week, we have begun development of our solution and created a Trello board to keep track
+of tasks that are to be/ have been done in order to ensure transparency among the group.
+
+Overall, I feel that this week has been very productive as approach the Hackathon in week 5.
