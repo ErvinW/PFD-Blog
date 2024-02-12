@@ -45,3 +45,32 @@ However, we received some feedback that the eye-tracker was not 100% reliable an
 and the features we developed was over-generalized and tried to accomodate to as many people in our selected group instead of focusing
 on a specific problem faced by persons with physical disabilities and developing features around it.
 
+Week 12
+
+This week my group started our sprint planning and commencement of the next sprint and decided that the sprint will be focusing on the improvement of the voice command feature and addition of further accessibility features
+to make site navigation easier for persons with mobility impairments in the hands.
+
+Week 13
+
+This week, I completed coding out the program which allows the voice command feature to recognise multiple languages which can be changed to the 
+users' preferences via voice command or pressing the respective language button. The other developers in the team also completed coding a hand gesture feature that allows for site navigation via simple
+hand gestures.
+
+Week 14
+
+This week, my team and I started our final sprint with the sole focus on developing a simple and easy to use UI for our site as well as working on the
+further refinement of our improved features. We also continued working on the eye-tracking feature but consider scrapping it due to stabilitiy issues it causes to the site.
+
+Week 15
+
+This week, we continued our final sprint, focusing on the peer-testing each feature to ensure every feature performs 
+the way it was intended and to fix any bugs we chanced upon. We also made the final decision to discontinue development of the eye-tracking feature and not implement it to the final product.
+
+Week 16
+
+This week, the team and I worked on the preperation of our product pitch to the lecturers. Preparations included a deck of slides to use as visual aids during the pitch as well as the finalisation of our product documentatin/ user guide 
+and recording of a demo video on how to use the prpoduct.
+
+Week 17
+
+This week we had our presentation pitch to the lecturers on Tuesday and completed an online tech assessment.
